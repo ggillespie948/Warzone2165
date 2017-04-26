@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8226fd69dee137428b9678e6985b0f5
+timeCreated: 1493000080
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Turret: {instanceID: 0}
+  - SpawnFX: {fileID: 1167345066952596, guid: 8b21d453ef8e42142a467aa1e4a77017, type: 2}
+  - NodeSkin: {fileID: 2800000, guid: de7f35b523daebf4b9781f6d8af36ab2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6bf389ab19efd8f4da71e04709e00836
+timeCreated: 1491399127
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lineRenderer: {instanceID: 0}
+  - impactEffect: {fileID: 198722225513074582, guid: 292468676b6af134e9bc6e341239af9a,
+      type: 2}
+  - rotationPart: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - firePosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
